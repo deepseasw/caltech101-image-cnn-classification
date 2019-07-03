@@ -9,9 +9,9 @@ Image CNN Classification.ipynb 파일을 주피터 노트북에서 실행
 <br>
 <br>
 # 소수정예 딥러닝 입문 강의
+- http://aidev.co.kr/lecture
 - 매주 3시간 / 6주 완성
 - 6명 정원
-- http://aidev.co.kr/lecture
 <br>
 <br>
 <br>
