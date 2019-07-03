@@ -1,19 +1,11 @@
 # 소개
 케라스를 사용하여 Caltech101 이미지를 분류하는 CNN 모델
-<br>
-<br>
-<br>
 # 실행 방법
 Image CNN Classification.ipynb 파일 열기
-<br>
-<br>
-<br>
-<br>
 # 소수정예 딥러닝 입문 강의
 - 매주 3시간 / 6주 완성
 - 6명 정원
 - 신청방법 : <http://aidev.co.kr/lecture>
-<br>
 # 소수정예 딥러닝 입문 강의
 - 딥러닝의 기본
 - 신경망
