@@ -6,6 +6,9 @@
 - \model : 모델 저장
 - Image CNN Classification.ipynb : 실행 파일
 
+# CNN의 구조
+<img src = "/image/image01.jpg>
+            
 # 소수정예 딥러닝 입문 강의
 - 매주 3시간 / 6주 완성
 - 6명 정원
