@@ -16,7 +16,7 @@ Image CNN Classification.ipynb 파일 열기
 <br>
 <br>
 <br>
-# 강의 목차
+## 강의 목차
 - 딥러닝의 기본
 - 신경망
 - 이미지 인식 딥러닝
