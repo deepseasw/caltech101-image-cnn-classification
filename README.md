@@ -6,7 +6,7 @@
 - \model : 모델 저장
 - Image CNN Classification.ipynb : 실행 파일
 
-# CNN의 구조
+# CNN(Convolutional Neural Network)의 구조
 <img src = "/image/image01.jpg">
 
 <img src = "/image/image02.jpg">
