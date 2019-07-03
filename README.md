@@ -9,6 +9,9 @@ Image CNN Classification.ipynb 파일 열기
 - 6명 정원
 - 신청방법 : <http://aidev.co.kr/lecture>
 
+
+
+
 # 강의 목차
 - 딥러닝의 기본
 - 신경망
