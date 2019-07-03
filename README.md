@@ -16,7 +16,7 @@ Image CNN Classification.ipynb 파일 열기
 <br>
 <br>
 <br>
-# 강의 목차
+# 소수정예 딥러닝 입문 강의
 
 - 딥러닝의 기본
 - 신경망
