@@ -2,9 +2,9 @@
 케라스를 사용하여 Caltech101 이미지를 분류하는 CNN 모델
 
 # 설명
-\dataset : 데이터셋
-\model : 모델 저장
-Image CNN Classification.ipynb : 실행 파일
+- \dataset : 데이터셋
+- \model : 모델 저장
+- Image CNN Classification.ipynb : 실행 파일
 
 # 소수정예 딥러닝 입문 강의
 - 매주 3시간 / 6주 완성
