@@ -13,9 +13,6 @@ Image CNN Classification.ipynb 파일 열기
 - 매주 3시간 / 6주 완성
 - 6명 정원
 - 신청방법 : <http://aidev.co.kr/lecture>
-<br>
-<br>
-<br>
 # 소수정예 딥러닝 입문 강의
 
 - 딥러닝의 기본
