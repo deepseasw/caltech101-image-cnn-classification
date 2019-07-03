@@ -4,8 +4,17 @@
 <br>
 <br>
 # 실행 방법
-Image CNN Classification.ipynb 파일을 주피터 노트북에서 실행
+Image CNN Classification.ipynb 파일 열기
 <br>
+<br>
+<br>
+<br>
+# 강의 목차
+- 신경망
+- 이미지 인식 딥러닝
+- 시계열 및 텍스트 딥러닝
+- 자연어처리
+- 강화학습
 <br>
 <br>
 <br>
@@ -16,9 +25,3 @@ Image CNN Classification.ipynb 파일을 주피터 노트북에서 실행
 <br>
 <br>
 <br>
-# 강의 목차
-- 신경망
-- 이미지 인식 딥러닝
-- 시계열 및 텍스트 딥러닝
-- 자연어처리
-- 강화학습
