@@ -16,7 +16,7 @@ Image CNN Classification.ipynb 파일을 주피터 노트북에서 실행
 <br>
 <br>
 <br>
-# 소수정예 딥러닝 입문 강의
+# 강의 목차
 - 딥러닝의 기본
 
 # ㅁㅁㅁㅁ
