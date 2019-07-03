@@ -8,6 +8,26 @@
 
 # CNN의 구조
 <img src = "/image/image01.jpg">
+
+<img src = "/image/image02.jpg">
+
+<img src = "/image/image03.jpg">
+
+<img src = "/image/image04.jpg">
+
+<img src = "/image/image05.jpg">
+
+<img src = "/image/image06.jpg">
+
+<img src = "/image/image07.jpg">
+
+<img src = "/image/image08.jpg">
+
+<img src = "/image/image09.jpg">
+
+<img src = "/image/image10.jpg">
+
+<img src = "/image/image11.jpg">
             
 # 소수정예 딥러닝 입문 강의
 - 매주 3시간 / 6주 완성
